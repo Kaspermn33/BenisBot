@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kaspermn33/BenisBot/issues"
   },
-  "homepage": "https://github.com/Kaspermn33/BenisBot#readme"
+  "homepage": "https://github.com/Kaspermn33/BenisBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
