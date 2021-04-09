@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Kaspermn33/BenisBot#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3"
   }
 }
